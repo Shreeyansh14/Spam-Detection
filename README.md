@@ -1,5 +1,3 @@
-# Spam-Detection
-
 # Detecting Spam Using Natural Language Processing
 
 ## Introduction
