@@ -1,4 +1,4 @@
-# Detecting Spam Using Natural Language Processing
+# Detecting SMS Spam Using Natural Language Processing
 
 ## Introduction
 This is a Spam Classifier web application built using Flask. <br>
